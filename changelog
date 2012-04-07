@@ -1,3 +1,9 @@
+libusb-1.0 (2:1.0.8-2) unstable; urgency=low
+
+  * Add 01-configure-bashisms.diff to fix bashisms (closes: bug#582992).
+
+ -- Aurelien Jarno <aurel32@debian.org>  Tue, 25 May 2010 07:35:56 +0000
+
 libusb-1.0 (2:1.0.8-1) unstable; urgency=low
 
   * New upstream version.
